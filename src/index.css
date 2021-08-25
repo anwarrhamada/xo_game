@@ -1,0 +1,22 @@
+body{
+background-color:darkslategray;
+}
+h1{
+  text-align: center;
+  color: azure;
+}
+.p{
+  text-size-adjust: 300px;
+}
+.X{
+  background: white;
+border: 2px solid red;
+font-size: 30px;
+font-weight: 800;
+cursor: pointer;
+outline: none;
+  color:blueviolet;
+}
+.O{ 
+  color:cornflowerblue;
+}
